@@ -32,10 +32,6 @@ APP_CONFIGS = {
         'description': 'Integrated Risk Management Platform for enterprise risk assessment',
         'category': 'Risk Management'
     },
-    'legacy-iga-saviynt-migration': {
-        'description': 'Legacy IGA to Saviynt Migration Platform with SailPoint, Oracle OIM, and IBM Tivoli support',
-        'category': 'Migration Tools'
-    },
     'security-incident-demo-app': {
         'description': 'Security Incident Response Demo Platform with AI-powered analysis',
         'category': 'Incident Response'
